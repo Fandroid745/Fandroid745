@@ -1,7 +1,7 @@
 
 <h3 align="center">Tech Enthusiast</h3>
 
-- 🌱 I’m currently learning **c,linux**
+- 🌱 I’m currently learning **kotlin,linux**
 
 - 💬 Ask me about **Android**
 
