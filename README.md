@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋 Dhanush Sugganahalli</h1>
+<h1 align="center">Hi 👋 ,I'm Dhanush Sugganahalli</h1>
 <h3 align="center">Tech Enthusiast</h3>
 
 - 📫 How to reach me **dhanush41230@gmail.com**
