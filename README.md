@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋 I'm Dhanush</h1>
-<h3 align="center">Tech Enthusiast</h3>
+<h1 align="center">Hi 👋 I'm Dhanush </h1>
+<h3 align="center">Aspiring Android Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fandroid745&label=Profile%20views&color=0e75b6&style=flat" alt="fandroid745" /> </p>
 
