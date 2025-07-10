@@ -13,17 +13,12 @@
 [![Tools](https://skillicons.dev/icons?i=androidstudio,vscode,linux,git,github&theme=dark)](https://skillicons.dev)
 
 
-
-
-
-
-
-
 - 📫 How to reach me **dhanush41230@gmail.com**
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://linkedin.com/in/dhanush-sugganahalli-078117269) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://in.linkedin.com/in/dhanush-sugganahalli-078117269) 
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=fandroid745&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=fandroid745&theme=dark&hide_border=false)<br/>
